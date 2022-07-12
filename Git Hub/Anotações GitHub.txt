@@ -1,0 +1,14 @@
+Criando Repositório no GitHub
+
+1. No Git Hub, clicar em " criar repositório"
+   *prencher dados com o nome do repositório
+   *prencher descrição do repositório(a que se refere)
+   *clicar em "adicionar um arquivo README"
+   * clicar em "Criar Repositório"
+
+No Git Bash
+
+1. Abrir o Git Bash no diretorio C: na pasta de sua preferência.
+  * No Git Bash descrever : "git clone + pagina html" e de ENTER
+   ¨ a pagina html e copida no github, na aba CODIGO¨
+ 
