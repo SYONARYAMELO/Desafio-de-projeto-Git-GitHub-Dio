@@ -27,7 +27,9 @@ No Git Bash
 6. Verificar o status: " git status" ENTER
  * Aparecerar msn que foi adicionado a pasta no stage, mais que precisa commitar
 
-7. No Git Bash descrever : " git push origin main"  ENTER
+7. No Git Bash descrever a alteração para commitar: git commit -m " Inclusão de Informações do Curso"
+
+8. No Git Bash descrever : " git push origin main"  ENTER
    * as alterações de dados foram enviadas para o repositorio do GIT HUB.
                        ------ PROCESSO CONCLUIDO 100%----
       == TODA VEZ QUE FIZER ALTERAÇÃO, INCLUSÃO, DEVE SER FEITO O COMMIT E ENVIO DO ARQUIVO PARA O REPOSITORIO DO GITHUB==
