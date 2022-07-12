@@ -1,14 +1,37 @@
 Criando Repositório no GitHub
 
-1. No Git Hub, clicar em " criar repositório"
-   *prencher dados com o nome do repositório
-   *prencher descrição do repositório(a que se refere)
+1. No Git Hub, clicar em " criar repositorio"
+   *prencher dados com o nome do repositorio
+   *prencher descriçao do repositorio(a que se refere)
    *clicar em "adicionar um arquivo README"
-   * clicar em "Criar Repositório"
+   * clicar em "Criar Repositorio"
 
 No Git Bash
 
-1. Abrir o Git Bash no diretorio C: na pasta de sua preferência.
-  * No Git Bash descrever : "git clone + pagina html" e de ENTER
+1. Abra o Git Bash no diretorio C: na pasta de sua preferencia.
+
+  * No Git Bash descrever : "git clone + pagina html"  ENTER
    ¨ a pagina html e copida no github, na aba CODIGO¨
+
+2. Entrar na pasta : " cd + nome da pasta" ENTER
+
+3. Verificar o status: " git status" ENTER
+
+4. Pode criar uma pasta especifica para anotações do cursos ou outras informações.
+    No diretorio C:  criar pasta "GIT HUB"
+    Dentro da pasta "GIT HUB" <adiciona o arquivo de texto ou outras informações de relevancia>
+
+5. No Git Bash descrever : " git add . + nome da pasta de destino" ENTER
+     ¨para comitar o arquivo ( adicionar)
+
+6. Verificar o status: " git status" ENTER
+ * Aparecerar msn que foi adicionado a pasta no stage, mais que precisa commitar
+
+7. No Git Bash descrever : " git push origin main"  ENTER
+   * as alterações de dados foram enviadas para o repositorio do GIT HUB.
+                       ------ PROCESSO CONCLUIDO 100%----
+      == TODA VEZ QUE FIZER ALTERAÇÃO, INCLUSÃO, DEVE SER FEITO O COMMIT E ENVIO DO ARQUIVO PARA O REPOSITORIO DO GITHUB==
+
+AO ATUALIZAR O SITE DO GITHUB, IRA APARECER AS ALTERAÇÕES REALIZADAS.
+
  
