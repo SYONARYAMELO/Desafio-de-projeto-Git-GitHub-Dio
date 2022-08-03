@@ -1,2 +1,2 @@
-# Desafio-de-projeto-Git-GitHub-Dio
-Meu primeiro Repositorio GIT/GITHUB DIO- Desafio de Projeto
+# Desafio-de-projeto-Git-GitHub
+Meu primeiro Repositorio GIT/GITHUB- Desafio de Projeto
